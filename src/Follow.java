@@ -1,5 +1,5 @@
 
-public class Follow{
+public class Follow {
 
     protected Profile sender, receiver;
 
